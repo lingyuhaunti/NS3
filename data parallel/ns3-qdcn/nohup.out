@@ -1,0 +1,1004 @@
+Exception KeyboardInterrupt in <module 'threading' from '/usr/lib64/python2.7/threading.pyc'> ignored
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_1.0.tr
+initCwnd: 15
+ecnLimit: 0
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.5.tr
+initCwnd: 15
+ecnLimit: 0
+
+QDCN offerload_0.5 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.9.tr
+initCwnd: 15
+ecnLimit: 0
+
+QDCN offerload_0.9 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.6.tr
+initCwnd: 15
+ecnLimit: 0
+
+QDCN offerload_0.6 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.8.tr
+initCwnd: 15
+ecnLimit: 0
+
+QDCN offerload_0.8 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.4.tr
+initCwnd: 15
+ecnLimit: 0
+
+QDCN offerload_0.4 Finished.
+
+QDCN offerload_1.0 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.1.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:2402
+
+QDCN offerload_0.1 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.2.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:4601
+
+Exception in thread Thread-2 (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 810, in __bootstrap_innerException in thread Thread-3 (most likely raised during interpreter shutdown):trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.1.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:2402
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 829 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 2677 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.1 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.2.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:4601
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 5045 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 4453 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.2 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.3.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:6824
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 10335 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 15294 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.3 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.4.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:9208
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 24040 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 13280 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.4 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.5.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:11635
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 25430 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 26341 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.5 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.6.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:14641
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 62828 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 50420 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.6 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.7.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:16205
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 72905 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 101421 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.7 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.8.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:19004
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 118831 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 107631 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.8 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.9.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:21119
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 141799 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 84826 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.9 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_1.0.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:23093
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 637634 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 178210 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_1.0 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.1.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:2402
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 829 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 2677 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.1 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.2.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:4601
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 5039 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 4735 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.2 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.3.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:6824
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 9480 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 15008 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.3 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.4.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:9208
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 24228 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 13811 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.4 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.5.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:11635
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 27442 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 26753 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.5 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.6.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:14641
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 67574 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 51660 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.6 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.7.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:16205
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 70767 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 105174 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.7 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.8.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:19004
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 113763 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 110714 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.8 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_0.9.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:21119
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 141799 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 84826 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_0.9 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.3/offerload_1.0.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:23093
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 636957 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 173091 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+QDCN offerload_1.0 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.1.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:2316
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.1 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.2.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:4408
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.2 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.3.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:7345
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.3 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.4.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:8948
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.4 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.5.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:11711
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.5 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.6.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:14501
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.6 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.7.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:16605
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.7 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.8.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:18998
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.8 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.9.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:20617
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.9 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_1.0.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:23485
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_1.0 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.1.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:2316
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.1 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.2.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:4408
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.2 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.3.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:7345
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.3 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.4.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:8948
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.4 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.5.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:11711
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.5 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.6.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:14501
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.6 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.7.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:16605
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.7 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.8.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:18998
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.8 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_0.9.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:20617
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.9 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.1/offerload_1.0.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:23485
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_1.0 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.4/offerload_0.1.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:2402
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.1 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.4/offerload_0.2.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:4601
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.2 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.4/offerload_0.3.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:6824
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.3 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.4/offerload_0.4.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:9208
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.4 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.4/offerload_0.5.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:11635
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.5 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.4/offerload_0.6.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:14641
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.6 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.4/offerload_0.7.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:16205
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.7 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.4/offerload_0.8.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:19004
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.8 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.4/offerload_0.9.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:21119
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.9 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.4/offerload_1.0.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:23093
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_1.0 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.5/offerload_0.1.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:2316
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.1 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.5/offerload_0.2.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:4408
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.2 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.5/offerload_0.3.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:7345
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.3 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.5/offerload_0.4.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:8948
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.4 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.5/offerload_0.5.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:11711
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.5 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.5/offerload_0.6.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:14501
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.6 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.5/offerload_0.7.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:16605
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.7 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.5/offerload_0.8.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:18998
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.8 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.5/offerload_0.9.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:20617
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_0.9 Finished.
+trace: /home/hadoop/Downloads/ns3-tgz/ns3-qdcn/trace_0.5/offerload_1.0.tr
+initCwnd: 15
+ecnLimit: 0
+m_count:23485
+*** RED stats from Node 2 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+*** RED stats from Node 3 queue ***
+	 0 drops due prob mark
+	 0 marks due prob mark
+	 0 drops due hard mark
+	 0 drops due queue full
+
+TCN offerload_1.0 Finished.
